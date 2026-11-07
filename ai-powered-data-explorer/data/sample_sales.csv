@@ -1,0 +1,31 @@
+OrderDate,Region,Category,Product,Units,UnitPrice,Revenue,CustomerRating
+2025-01-03,North,Electronics,Headphones,2,49.99,99.98,4.5
+2025-01-05,South,Home,Desk Lamp,3,24.50,73.50,4.2
+2025-01-07,East,Electronics,Keyboard,1,79.00,79.00,4.7
+2025-01-09,West,Books,Data Science Guide,4,18.00,72.00,4.6
+2025-01-12,North,Home,Water Bottle,5,12.00,60.00,4.1
+2025-01-14,South,Electronics,Mouse,2,29.99,59.98,4.3
+2025-01-16,East,Books,Python Basics,3,22.00,66.00,4.8
+2025-01-18,West,Home,Notebook,8,5.50,44.00,4.0
+2025-01-21,North,Electronics,Monitor,1,199.00,199.00,4.7
+2025-01-23,South,Books,ML Handbook,2,35.00,70.00,4.9
+2025-01-25,East,Home,Desk Organizer,3,16.00,48.00,4.2
+2025-01-27,West,Electronics,Webcam,2,59.00,118.00,4.4
+2025-02-02,North,Books,Python Basics,2,22.00,44.00,4.5
+2025-02-04,South,Home,Desk Lamp,1,24.50,24.50,3.9
+2025-02-06,East,Electronics,Headphones,3,49.99,149.97,4.6
+2025-02-08,West,Books,Data Science Guide,1,18.00,18.00,4.1
+2025-02-11,North,Home,Water Bottle,4,12.00,48.00,4.3
+2025-02-13,South,Electronics,Keyboard,2,79.00,158.00,4.8
+2025-02-15,East,Books,ML Handbook,3,35.00,105.00,4.7
+2025-02-17,West,Home,Notebook,6,5.50,33.00,4.0
+2025-02-20,North,Electronics,Mouse,4,29.99,119.96,4.4
+2025-02-22,South,Books,Python Basics,1,22.00,22.00,4.2
+2025-02-24,East,Home,Desk Organizer,5,16.00,80.00,4.5
+2025-02-26,West,Electronics,Monitor,1,199.00,199.00,4.9
+2025-03-02,North,Books,ML Handbook,2,35.00,70.00,4.6
+2025-03-04,South,Home,Water Bottle,7,12.00,84.00,4.1
+2025-03-06,East,Electronics,Webcam,2,59.00,118.00,4.4
+2025-03-08,West,Books,Data Science Guide,3,18.00,54.00,4.7
+2025-03-11,North,Electronics,Headphones,1,49.99,49.99,4.3
+2025-03-13,South,Books,Python Basics,4,22.00,88.00,4.8
